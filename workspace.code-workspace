@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Node/js"
+		},
+		{
+			"path": "../../../Node/corona"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lab-fe-huhyn-design"
+	}
+}

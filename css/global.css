@@ -1,0 +1,138 @@
+/* ---COLORS---- 
+black -#000000
+navy - #14213D
+gold - #FCA311  (accent)
+light gray - #E5E5E5
+white = #FFFFFF  */
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.bg-black {
+    background-color: #000;
+}
+
+.bg-navy {
+    background-color: #14213D;
+}
+
+.bg-accent {
+    background-color: #FCA311;
+}
+
+.bg-lightGray {
+    background-color: #E5E5E5;
+}
+
+.txt-black {
+    color: #000;
+}
+
+.txt-navy {
+    color: #14213D;
+}
+
+.txt-accent {
+    color: #FCA311;
+    text-decoration: none;
+}
+
+.txt-accent a:hover, a:visited {
+    color: #E5E5E5;
+    text-decoration: underline;
+
+}
+.txt-lightGray {
+    color: #E5E5E5;
+}
+
+/* *---COLORS---- 
+black -#000000
+navy - #14213D
+gold - #FCA311  (accent)
+light gray - #E5E5E5
+white = #FFFFFF 
+*/ 
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-black {
+    background-color: #000;
+}
+
+.bg-navy {
+    background-color: #14213D;
+}
+
+.bg-accent {
+    background-color: #FCA311;
+}
+
+.bg-lightGray {
+    background-color: #E5E5E5;
+}
+
+.txt-black {
+    color: #000;
+}
+
+.txt-navy {
+    color: #14213D;
+}
+
+.txt-accent {
+    color: #FCA311;
+}
+.txt-accent a{
+    color: #FCA311;
+}
+.txt-accent a:hover{
+    color: #fca21100;
+}
+
+.txt-lightGray {
+    color: #E5E5E5;
+}
+
+header {
+    width: 100%;
+    height: 400px;
+    background-color: pink;
+}
+
+.top {
+    top: 0px;
+}
+.pslight{
+    background-color: wheat;
+    height: 500px;
+    width: 100%;
+
+}
+.psgray{
+    background-color: gray;
+    height: 500px;
+    width: 100%;
+}
+
+.parallax {
+    background-image: add image;
+    height: 600px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
